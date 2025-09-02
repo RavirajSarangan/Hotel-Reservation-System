@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🏨 Moonlit Hotel - Complete Hotel Management System
 
 A comprehensive, modern hotel reservation and management system built with Next.js 15, featuring role-based authentication, AI chatbot, real-time booking management, and a complete admin dashboard.
@@ -85,3 +86,6 @@ A comprehensive, modern hotel reservation and management system built with Next.
 ---
 
 **Built with ❤️ for the hospitality industry**
+=======
+# Hotel-Reservation-System
+>>>>>>> ce8c80f03c89797b92a5504be13ca62c876fc147
